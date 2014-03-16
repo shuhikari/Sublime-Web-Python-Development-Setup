@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    { "keys": ["ctrl+shift+0"], "command": "reset_font_size_to_user_defaults" },
+    { "keys": ["ctrl+shift+q"], "command": "expand_region" }
+]

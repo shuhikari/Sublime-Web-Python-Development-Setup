@@ -1,0 +1,36 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"ColorPicker",
+		"Dayle Rees Color Schemes",
+		"Djaneiro",
+		"Django Manage Commands",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"ExpandRegion",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Handlebars",
+		"Http Requester",
+		"JsFormat",
+		"JSHint Gutter",
+		"Package Control",
+		"Predawn",
+		"Pretty JSON",
+		"Python Flake8 Lint",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SVN",
+		"Tag",
+		"Tagify",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Vintageous"
+	]
+}
